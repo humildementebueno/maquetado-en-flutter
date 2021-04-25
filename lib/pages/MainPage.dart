@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:maquetado/pages/componets/Header.dart';
+import 'package:maquetado/pages/componets/profile_lista.dart';
 
 class MainPage extends StatelessWidget {
   @override
@@ -13,6 +14,7 @@ class MainPage extends StatelessWidget {
             Header(),
             SizedBox(height: 20),
             Header(),
+            ProfileLista(),
           ],
         ),
       ),
