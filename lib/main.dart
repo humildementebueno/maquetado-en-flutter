@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:maquetado/pages/MainPage.dart';
 
+//principal
 void main() {
   runApp(MyApp());
   // hola woody
